@@ -1,7 +1,7 @@
 {
   "entryAssembly": "BlazorApp_Pdfviewer",
   "resources": {
-    "hash": "sha256-SJlAZDI79VvIoTsxn+j2fTJN85xJWEpKzqhC4/Yf9KU=",
+    "hash": "sha256-M187I3L5YIyApoPN9+PMa3Jb1eOCrvlsNTgdsE3hyJE=",
     "runtime": {
       "dotnet.6.0.32.sujx4omiy2.js": "sha256-RxBzvqJdx42DGWibo3GPhKkHXy8thzC0+PlAmvBw8z8=",
       "dotnet.timezones.blat": "sha256-ALK3ufXwNaP1t4mRlACcINalB2grQvfkrI/8lo7nNq0=",
@@ -44,7 +44,7 @@
       "Syncfusion.Blazor.Navigations.dll": "sha256-AI2nf9I7EyuGDB0/fl4zeMpcQGiaNU6FzqjMwBJsdlw=",
       "Syncfusion.Blazor.Notifications.dll": "sha256-O6tk5FdFwqZLfPhM1qpoR6z7Lf92HYWmSrPYmFWfnvU=",
       "Syncfusion.Blazor.Popups.dll": "sha256-YcDRUEVHBwhyzcNDNvLWj9ZjX0e4hXCiooL9ONUCfB0=",
-      "Syncfusion.Blazor.SfPdfViewer.dll": "sha256-GWKcoBqXNU7OTYPNJl4uCsAUS+jVHvOIZx4IXJuWWqU=",
+      "Syncfusion.Blazor.SfPdfViewer.dll": "sha256-/rOFIYynHBhhqjk1nF6GcAmLcQq9fOGmnIoSxYVsBjw=",
       "Syncfusion.Blazor.Spinner.dll": "sha256-tVXNKtzPwfC8AlP4PAMOWds+DsN2xpNSnYZbts9gIpQ=",
       "Syncfusion.Blazor.SplitButtons.dll": "sha256-2sCwpm5t3SQaQXq8V1BktBPCHN/WWp+u0ar7Wl9SLO4=",
       "Syncfusion.Blazor.Themes.dll": "sha256-6cqCn0K75x7Qg70rv15NHKLIdzJr1Trw2NXCnMfV/dI=",
